@@ -3,4 +3,5 @@
 ## Alt Bilgi
 sdfsfsfs
 sdfs
-[lorem ipsum]{http://google.com}
+
+[lorem ipsum](http://google.com)
