@@ -3,4 +3,4 @@
 ## Alt Bilgi
 sdfsfsfs
 sdfs
-adGAS
+yeni link
