@@ -1,0 +1,27 @@
+#.gitignore ile nelerin takip edilmemesi ve githuba gönderilmemesi gerektiğini söyleyebiliyoruz. Böylelikle gereksiz doyaları githuba gönderip yer kaplamasının önüne geçmiş oluruz. Yani takip edilmeyecek dosyaları ekleyebiliyoruz. #diyez işareti ise açıklama satırı demektir.
+
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#img
+*.jpg
+*.png
+img/
+
+
+#videos
+*.mp4
+
+#packages    kullandıgımız yazılım dili ile ilgili paketler
+
+#.log  çalışma içinde yapılan değişiklikler-güncellemeler
+*.log
+
+password.txt
+
+
